@@ -13,6 +13,8 @@ from pathlib import Path
 import streamlit as st
 from dotenv import load_dotenv
 
+from .src.task10_generation import generate_with_citation
+
 load_dotenv()
 
 # Thêm project root vào sys.path để import các task từ src/
@@ -117,6 +119,9 @@ if query:
                 # response = generate_with_citation(query, top_k=top_k)
                 # answer = response["answer"]
                 # sources = response.get("sources", [])
+                response = generate_with_citation(query, top_k=top_k)
+                answer = response["answer"]
+                sources = response.get("source", [])
 
                 # Tạm thời mockup để test UI:
                 from src.task10_generation import generate_with_citation

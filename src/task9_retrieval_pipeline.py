@@ -28,7 +28,11 @@ Logic:
 from .task5_semantic_search import semantic_search
 from .task6_lexical_search import lexical_search
 from .task7_reranking import rerank, rerank_rrf
-from .task8_pageindex_vectorless import pageindex_search
+from .task8_pageindex_vectorless import (
+    _UPLOADED_DOC_IDS,
+    pageindex_search,
+    upload_documents,
+)
 
 
 # =============================================================================
@@ -101,10 +105,51 @@ def retrieve(
     #     fallback = pageindex_search(query, top_k=top_k)
     #     if fallback:
     #         return fallback
-    #
+    
     # return final_results[:top_k]
-    raise NotImplementedError("Implement retrieve")
+    dense_results = semantic_search(query, top_k=top_k * 2)
+    sparse_results = lexical_search(query, top_k=top_k * 2)
 
+    merged = rerank_rrf(
+        [dense_results, sparse_results],
+        top_k=top_k * 2
+    )
+
+    for item in merged:
+        item["source"] = "hybrid"
+
+    if use_reranking and merged:
+        final_results = rerank(
+            query,
+            merged,
+            top_k=top_k,
+            method=RERANK_METHOD
+        )
+    else:
+        final_results = merged[:top_k]
+
+    best_score = dense_results[0]["score"] if dense_results else 0.0
+    if best_score < score_threshold:
+        print(f"  ⚠ Semantic best score ({best_score:.3f}) < threshold ({score_threshold})")
+
+        # PageIndex chỉ query được sau khi các tài liệu đã được upload trong
+        # cùng process. Nếu chưa có doc_id, upload lazy ngay tại fallback.
+        # Khi PageIndex chưa cấu hình hoặc upload/query lỗi, giữ hybrid results
+        # thay vì làm toàn bộ retrieval pipeline bị crash.
+        try:
+            if not _UPLOADED_DOC_IDS:
+                upload_documents()
+            fallback = pageindex_search(query, top_k=top_k)
+        except Exception as exc:
+            # PageIndex là fallback tùy chọn: lỗi cấu hình, timeout hoặc lỗi
+            # API (ví dụ LimitReached) không được làm hỏng hybrid retrieval.
+            print(f"  ⚠ PageIndex unavailable: {exc}")
+            fallback = []
+
+        if fallback:
+            return fallback
+    
+    return final_results[:top_k]
 
 if __name__ == "__main__":
     test_queries = [
