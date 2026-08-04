@@ -1,17 +1,102 @@
 [
   {
-    "question": "Học phí hàng năm của chương trình Business tại RMIT Vietnam là bao nhiêu?",
-    "expected_answer": "Khoảng 375.840.000 VND mỗi năm (tùy chương trình cụ thể).",
-    "expected_context": "Trang Tuition Fees, mục Undergraduate Programs"
+    "question": "Sinh viên hệ chính quy tại VinUni cần đăng ký tối thiểu bao nhiêu tín chỉ trong một học kỳ thông thường để duy trì tình trạng sinh viên toàn thời gian?",
+    "expected_answer": "Để duy trì là sinh viên toàn thời gian (chính quy), sinh viên phải đăng ký tối thiểu 80% khối lượng học tập trong một học kỳ thông thường, tương đương với 12 tín chỉ.",
+    "expected_context": "Quy chế đào tạo Đại học, Điều 11: Khối lượng học tập"
   },
   {
-    "question": "Học phí được thanh toán theo hình thức nào?",
-    "expected_answer": "Thanh toán theo từng học kỳ, tính theo từng môn học đã đăng ký.",
-    "expected_context": "Trang Tuition Fees, mục Payment Structure"
+    "question": "Thời gian tối đa để sinh viên hoàn thành khóa học đại học từ 4 đến 5 năm tại VinUni là bao lâu?",
+    "expected_answer": "Thời gian tối đa hoàn thành khóa học bao gồm thời gian quy định tiêu chuẩn của khóa học cộng với 4 học kỳ chính.",
+    "expected_context": "Quy chế đào tạo Đại học, Điều 7: Thời gian và kế hoạch đào tạo"
   },
   {
-    "question": "Trường có cung cấp ký túc xá trong khuôn viên không?",
-    "expected_answer": "Không — trường không cung cấp chỗ ở trong khuôn viên, nhưng có đội ngũ hỗ trợ sinh viên tìm chỗ ở gần trường.",
-    "expected_context": "Trang Accommodation Services"
+    "question": "Điều kiện về điểm trung bình tích lũy (CGPA) để sinh viên được đăng ký học cùng lúc hai chương trình đào tạo là gì?",
+    "expected_answer": "Sinh viên phải có học lực tính theo điểm trung bình tích lũy xếp loại khá trở lên (CGPA từ 2.5 trở lên) tại thời điểm đăng ký.",
+    "expected_context": "Quy chế đào tạo Đại học, Điều 19: Học cùng lúc hai chương trình"
+  },
+  {
+    "question": "Hạng tốt nghiệp 'Xuất sắc' đối với bậc đại học yêu cầu điểm trung bình tích lũy (CGPA) tối thiểu là bao nhiêu?",
+    "expected_answer": "Hạng tốt nghiệp Xuất sắc yêu cầu điểm trung bình tích lũy từ 3.60 đến 4.00.",
+    "expected_context": "Quy chế đào tạo Đại học, Điều 29: Phân loại tốt nghiệp"
+  },
+  {
+    "question": "Sinh viên bị buộc thôi học trong trường hợp nào liên quan đến số lần bị cảnh báo học tập?",
+    "expected_answer": "Sinh viên sẽ bị buộc thôi học nếu có tổng cộng 3 lần bị cảnh báo học tập (trong đó một lần bị quản chế học tập được tính là hai lần cảnh báo).",
+    "expected_context": "Quy chế đào tạo Đại học, Điều 17: Cảnh báo kết quả học tập, buộc thôi học"
+  },
+  {
+    "question": "Học viên cao học có thể chuyển đổi tối đa bao nhiêu tín chỉ từ chương trình thạc sĩ khác hoặc chương trình chuyên sâu đặc thù?",
+    "expected_answer": "Số tín chỉ được công nhận và chuyển đổi không được vượt quá 30 tín chỉ.",
+    "expected_context": "Quy chế đào tạo Thạc sĩ, Điều 4: Công nhận kết quả học tập và chuyển đổi tín chỉ"
+  },
+  {
+    "question": "Thời gian tối đa để học viên hoàn thành khóa học thạc sĩ tại VinUni được quy định như thế nào?",
+    "expected_answer": "Thời gian tối đa không vượt quá 02 lần thời gian theo kế hoạch học tập chuẩn toàn khóa đối với mỗi hình thức đào tạo.",
+    "expected_context": "Quy chế đào tạo Thạc sĩ, Điều 3: Hình thức, thời gian đào tạo và khối lượng học tập"
+  },
+  {
+    "question": "Điểm đánh giá luận văn thạc sĩ được xếp loại đạt khi đạt tối thiểu bao nhiêu điểm trên thang điểm 10?",
+    "expected_answer": "Luận văn được xếp loại đạt khi điểm trung bình cộng của các thành viên hội đồng có mặt lớn hơn hoặc bằng 5,5 điểm.",
+    "expected_context": "Quy chế đào tạo Thạc sĩ, Điều 9: Đánh giá luận văn"
+  },
+  {
+    "question": "Học phí niêm yết cho chương trình Bác sĩ Y khoa năm học 2025 là bao nhiêu?",
+    "expected_answer": "Mức học phí niêm yết là 815.850.000 VND/năm.",
+    "expected_context": "Quy định tài chính và biểu phí, Mục A.I: Học phí niêm yết"
+  },
+  {
+    "question": "Mức phí phạt áp dụng cho trường hợp sinh viên thanh toán chậm học phí là bao nhiêu?",
+    "expected_answer": "Sinh viên phải nộp một khoản phí phạt thanh toán chậm là 2.000.000 VNĐ.",
+    "expected_context": "Quy định tài chính và biểu phí, Mục E.1.3: Điều khoản thực hiện"
+  },
+  {
+    "question": "Chính sách Hỗ trợ phát triển giáo dục 35% học phí áp dụng cho những đối tượng nào?",
+    "expected_answer": "Áp dụng cho tất cả sinh viên nhập học thành công tại VinUni đến năm 2030 cho toàn bộ thời gian học tập chuẩn.",
+    "expected_context": "Quy định tài chính và biểu phí, Mục D.1: Chính sách Học bổng, Hỗ trợ Tài chính"
+  },
+  {
+    "question": "Nếu sinh viên nộp học phí và phí ký túc xá cho cả năm học đúng hạn thì được hưởng mức chiết khấu bao nhiêu?",
+    "expected_answer": "Sinh viên sẽ được hưởng mức chiết khấu 5% tính trên số tiền phải thu trước chiết khấu.",
+    "expected_context": "Quy định tài chính và biểu phí, Mục D.2.3: Chiết khấu đóng phí theo năm học"
+  },
+  {
+    "question": "Mức phí ở Ký túc xá cho loại phòng dành cho 2 sinh viên là bao nhiêu?",
+    "expected_answer": "Mức phí là 4.000.000 đồng/tháng/sinh viên.",
+    "expected_context": "Quy định tài chính và biểu phí, Mục A.II.6: Phí ở Ký túc xá"
+  },
+  {
+    "question": "Trong suốt quá trình học, học phí của sinh viên có bị thay đổi không?",
+    "expected_answer": "Học phí không thay đổi trong suốt quá trình học, kể cả trong thời gian sinh viên bảo lưu.",
+    "expected_context": "Quy định tài chính và biểu phí, Mục D.3: Chính sách điều chỉnh Học phí và phí"
+  },
+  {
+    "question": "Nếu sinh viên xin thôi học trong vòng 2 tuần kể từ ngày học đầu tiên của học kỳ, mức hoàn trả học phí là bao nhiêu?",
+    "expected_answer": "Sinh viên được hoàn trả 50% học phí thực nộp.",
+    "expected_context": "Quy định tài chính và biểu phí, Mục D.4: Chính sách bảo lưu Học phí và hoàn trả Học phí"
+  },
+  {
+    "question": "Phí phúc tra điểm cho mỗi học phần là bao nhiêu?",
+    "expected_answer": "Mức phí phúc tra là 1.000.000 đồng/lần/môn.",
+    "expected_context": "Quy định tài chính và biểu phí, Mục A.II.4: Phí xử lý học vụ"
+  },
+  {
+    "question": "Chính sách ưu đãi học phí cho gia đình (từ người thứ 2 trở đi) tại VinUni là bao nhiêu?",
+    "expected_answer": "Sinh viên được giảm 2,5% học phí niêm yết.",
+    "expected_context": "Quy định tài chính và biểu phí, Mục D.2.1: Ưu đãi học phí cho Gia đình"
+  },
+  {
+    "question": "Điều kiện về trình độ ngoại ngữ để học viên được công nhận tốt nghiệp thạc sĩ là gì?",
+    "expected_answer": "Học viên phải đạt trình độ tương đương Bậc 4 theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam hoặc các chứng chỉ tương đương khác được Bộ GD&ĐT công bố.",
+    "expected_context": "Quy chế đào tạo Thạc sĩ, Điều 12: Công nhận tốt nghiệp, xếp hạng tốt nghiệp và cấp bằng thạc sĩ"
+  },
+  {
+    "question": "Ngôn ngữ chính được sử dụng trong giảng dạy và đánh giá tại VinUni là gì?",
+    "expected_answer": "Tiếng Anh là ngôn ngữ giảng dạy và đánh giá chính, trừ các học phần bắt buộc của Bộ GD&ĐT hoặc các trường hợp đặc biệt được phê duyệt.",
+    "expected_context": "Quy chế đào tạo Đại học, Điều 2: Ngôn ngữ giảng dạy và đánh giá"
+  },
+  {
+    "question": "Phí bồi hoàn trong trường hợp sinh viên làm mất hoặc hỏng bộ lễ phục tốt nghiệp là bao nhiêu?",
+    "expected_answer": "Mức phí bồi hoàn là 1.500.000 đồng/bộ.",
+    "expected_context": "Quy định tài chính và biểu phí, Mục A.II.5: Phí bồi hoàn các khoản tổn thất tài sản"
   }
 ]
