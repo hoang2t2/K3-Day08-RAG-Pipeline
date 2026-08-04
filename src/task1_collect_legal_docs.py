@@ -35,20 +35,41 @@ def setup_directory():
 
 # TODO: Tải file PDF/DOCX về DATA_DIR
 # Có thể tải thủ công hoặc viết script download nếu có direct link.
-#
+
 # Ví dụ nếu có direct link:
-#
-# import requests
-#
-# def download_file(url: str, filename: str):
-#     response = requests.get(url)
-#     filepath = DATA_DIR / filename
-#     filepath.write_bytes(response.content)
-#     print(f"✓ Đã tải: {filepath}")
-#
+
+import requests
+
+def download_file(url: str, filename: str):
+    if Path(filename).suffix.lower() not in {".pdf", ".doc", ".docx"}:
+        raise ValueError("filename phải có đuôi .pdf, .doc hoặc .docx")
+
+    filepath = DATA_DIR / filename
+
+    response = requests.get(url, timeout = 60)
+    response.raise_for_status()
+
+    content_type = response.headers.get("content-type", "").lower()
+    if "text/html" in content_type:
+        raise ValueError(
+            f"URL không phải direct link tới PDF/DOCX: {url}"
+            )
+
+    filepath.write_bytes(response.content)
+
+    if filepath.stat().st_size <= 1024:
+        filepath.unlink(missing_ok=True)
+        raise ValueError("File tải về rỗng hoặc quá nhỏ")
+
+    print(f"✓ Đã tải: {filepath} ({filepath.stat().st_size:,} bytes)")
 # Nếu trang là HTML thuần (không phải PDF sẵn), có thể convert nội dung text
 # thành PDF đơn giản bằng thư viện fpdf2 (đã có trong requirements.txt).
 
 
 if __name__ == "__main__":
     setup_directory()
+
+    url = input("Direct URL của PDF/DOCX: ").strip()
+    filename = input("Tên file: ").strip()
+
+    download_file(url, filename)
