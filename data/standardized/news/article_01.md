@@ -1,0 +1,161 @@
+# Vingroup tăng tốc đào tạo 20.000 Nhân tài AI thực chiến - VinUni
+
+**Source:** https://vinuni.edu.vn/vi/vingroup-tang-toc-dao-tao-20-000-nhan-tai-ai-thuc-chien/
+**Crawled:** 2026-08-04T10:36:33.647957
+
+---
+
+  * [Cơ hội nghề nghiệp](https://vinuni.edu.vn/vi/new-careers/)
+  * [Phát triển bền vững](https://sustainability.vinuni.edu.vn/vi/trang-chu/)
+  * [Đóng góp](https://giving.vinuni.edu.vn/vi/trang-chu/)
+  * [Cựu Sinh viên](https://vinuni.edu.vn/aid/alumni-engagement/)
+  * [Cổng Thông Tin Sinh Viên](https://vinuni.edu.vn/vi/cong-thong-tin-sinh-vien-vi/)
+
+
+  * [en](https://vinuni.edu.vn/vingroup-accelerates-the-vingroup-20000-applied-ai-talent-program/)
+  * [vi](https://vinuni.edu.vn/vi/vingroup-tang-toc-dao-tao-20-000-nhan-tai-ai-thuc-chien/)
+
+
+[ ![logo](https://vinuni.edu.vn/wp-content/uploads/2025/04/VINUNI_LOGO-FULL-.png) ](https://vinuni.edu.vn/vi/trang-chu)
+  * [en](https://vinuni.edu.vn/vingroup-accelerates-the-vingroup-20000-applied-ai-talent-program/)
+  * [vi](https://vinuni.edu.vn/vi/vingroup-tang-toc-dao-tao-20-000-nhan-tai-ai-thuc-chien/)
+
+
+  * [Đào tạo](https://vinuni.edu.vn/vi/academics/dao-tao/)
+    * [Viện Kinh doanh Quản trị](https://cbm.vinuni.edu.vn/vi/trang-chu-2/)
+    * [Viện Kỹ thuật và Khoa học Máy tính](https://cecs.vinuni.edu.vn/vi/trang-chu/)
+    * [Viện Khoa học Sức khỏe](https://chs.vinuni.edu.vn/vi/trang-chu/)
+    * [Viện Khoa học Xã hội và Khoa học Tự nhiên](https://cas.vinuni.edu.vn/vi/trang-chu/)
+    * [Đổi mới Sáng tạo trong Dạy và Học](https://vinuni.edu.vn/vi/academics/doi-moi-sang-tao-trong-day-va-hoc/)
+  * Nghiên cứu
+    * [Nghiên cứu & Đổi mới](https://research.vinuni.edu.vn/)
+    * [Mạng lưới nhà khoa học](https://vinuni.edu.vn/vi/mang-luoi-nha-khoa-hoc-toan-cau/)
+  * Hợp tác
+    * [Đối tác Toàn cầu](https://vinuni.edu.vn/vi/quan-he-doi-tac-toan-cau/)
+    * [Hợp tác với doanh nghiệp](https://vinuni.edu.vn/vi/hop-tac-voi-doanh-nghiep/)
+  * [Tuyển sinh](https://admissions.vinuni.edu.vn/vi/trang-chu/)
+    * [Tuyển sinh đại học](https://admissions.vinuni.edu.vn/vi/dai-hoc/gioi-thieu/)
+    * [Tuyển sinh sau đại học](https://admissions.vinuni.edu.vn/vi/chuong-trinh-sau-dai-hoc/gioi-thieu/)
+  * [Đời sống sinh viên](https://vinuni.edu.vn/vi/student_life/trang-chu/)
+    * [Đa dạng, Công bằng và Hòa nhập](https://dei.vinuni.edu.vn/vi/trang-chu/)
+    * [Sinh viên quốc tế](https://vinuni.edu.vn/vi/student_life/sinh-vien-quoc-te/)
+    * [Dịch vụ trong khuôn viên trường](https://vinuni.edu.vn/vi/campus-services-vi/)
+    * [Tour Thăm Quan Ảo Khuôn Viên VinUni](https://vinuni.edu.vn/vi/visit-2/)
+    * [Cửa hàng lưu niệm VinUni](https://vinuni.edu.vn/vi/student_life/cua-hang-vinuniversity/)
+    * [Chương trình Trao đổi Toàn cầu](https://vinuni.edu.vn/vi/global_exchange/trao-doi-toan-cau/)
+    * [Hỗ trợ Nghề nghiệp](https://vinuni.edu.vn/vi/aid/career-services-vn/)
+    * [Lịch sự kiện](https://vinuni.edu.vn/vi/su-kien-dai-hoc-vinuni/)
+  * Về VinUni
+    * [Trường Đại học VinUni](https://vinuni.edu.vn/vi/ve-vinuni-2/)
+    * Về Nhà tài trợ Sáng lập
+      * [TẬP ĐOÀN VINGROUP](https://vinuni.edu.vn/vi/ve-nha-tai-tro-sang-lap-tap-doan-vingroup-vinuni/)
+      * [Chương trình học bổng Vingroup](https://scholarships.vinuni.edu.vn/)
+    * [Hội đồng Trường](https://vinuni.edu.vn/vi/hoi-dong-truong/)
+    * [Tin tức & Sự kiện](https://vinuni.edu.vn/vi/tin-tuc-su-kien/)
+    * [Cơ hội nghề nghiệp](https://vinuni.edu.vn/vi/new-careers/)
+    * [Marketing và Truyền thông](https://marketing.vinuni.edu.vn/vi/trang-chu/)
+    * [Quy định & Chính sách](https://policy.vinuni.edu.vn/)
+    * [Liên hệ](https://vinuni.edu.vn/vi/lien-he-vinuni/)
+
+
+  * [Cơ hội nghề nghiệp](https://vinuni.edu.vn/vi/new-careers/)
+  * [Phát triển bền vững](https://sustainability.vinuni.edu.vn/vi/trang-chu/)
+  * [Đóng góp](https://giving.vinuni.edu.vn/vi/trang-chu/)
+  * [Cựu Sinh viên](https://vinuni.edu.vn/aid/alumni-engagement/)
+  * [Cổng Thông Tin Sinh Viên](https://vinuni.edu.vn/vi/cong-thong-tin-sinh-vien-vi/)
+
+
+![VinUni Banner](https://vinuni.edu.vn/wp-content/themes/vinuni2023/assets/images/vinuni_banner.png)
+[Trang chủ](https://vinuni.edu.vn/vi/trang-chu) [News & events](https://vinuni.edu.vn/news-events/) Vingroup tăng tốc đào tạo 20.000 Nhân tài AI thực chiến
+#  Vingroup tăng tốc đào tạo 20.000 Nhân tài AI thực chiến 
+28/07/2026 
+Mục lục
+Chỉ sau hơn 3 tháng tuyển sinh, Chương trình Đào tạo 20.000 Nhân tài AI thực chiến do Vingroup khởi xướng đã thu hút gần 2.000 học viên. Song song với kết quả 100% học viên đạt chuẩn khóa I được mời làm việc ngay sau khi tốt nghiệp, Chương trình đang tăng tốc mở rộng quy mô đào tạo nhằm đảm bảo mục tiêu cung cấp từ 10.000 – 20.000 nhân tài AI trong vòng 2 năm, đáp ứng nhu cầu nhân lực công nghệ ngày càng cao của đất nước.
+![](https://vinuni.edu.vn/wp-content/uploads/2026/07/download.jpg)
+Chương trình “Đào tạo 20.000 Nhân tài AI thực chiến” tại Trường Đại học VinUni (thuộc Tập đoàn Vingroup) ra đời từ tháng 1/2026 nhằm hưởng ứng Nghị quyết 57-NQ/TW của Bộ Chính trị và chỉ đạo của Tổng Bí Thư về đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia, nhằm góp phần phát triển nguồn nhân lực công nghệ cao cho đất nước. Theo kế hoạch, chương trình sẽ đào tạo tối đa 5.000 học viên trong năm 2026 và tiếp tục tăng tốc mạnh mẽ để hoàn tất kế hoạch trong năm 2027.
+Ngay sau khi khai giảng khóa I vào tháng 4/2026 với gần 500 học viên – VinUni đã mở thêm 2 khóa tiếp theo với tổng lượng học viên lên đến 2.000 người, chọn lọc từ khoảng 10.000 hồ sơ đăng ký.
+Bên cạnh tốc độ mở rộng, chương trình đã nhanh chóng khẳng định chất lượng đào tạo với kết quả đầu ra ấn tượng. 100% trong số 373/500 học viên khóa I đạt chuẩn năng lực VinUni đã nhận được thư mời làm việc từ Vingroup với mức thu nhập lên tới gần 50 triệu đồng/tháng. Hiện 95% học viên đã chính thức đảm nhận các vị trí chuyên môn như Kỹ sư AI, Kỹ sư dữ liệu, Phát triển phần mềm, Quản lý sản phẩm, Phân tích nghiệp vụ… tại VinFast, VinSmart Future, VinMotion, VinSOC cùng nhiều đơn vị thuộc và ngoài hệ sinh thái Tập đoàn.
+Sự thành công của chương trình “Đào tạo 20.000 nhân tài AI thực chiến” đến từ ba yếu tố cốt lõi: chất lượng học viên, chất lượng giảng viên, huấn luyện viên và mô hình đào tạo thực chiến, với các bài toán thật, dữ liệu thật, chuyên gia thật và cơ hội việc làm thật từ hệ sinh thái doanh nghiệp.
+Về chất lượng đầu vào, gần 40% học viên đã tốt nghiệp đại học hoặc sau đại học, gồm kỹ sư, cử nhân, thạc sĩ và tiến sĩ; số còn lại chủ yếu là sinh viên năm cuối các ngành STEM đến từ 141 trường đại học như: Đại học Bách khoa Hà Nội, Đại học FPT, Đại học Quốc gia Hà Nội, Học viện Công nghệ Bưu chính Viễn thông và Đại học Công nghiệp Hà Nội.
+Đặc biệt, chương trình cũng thu hút học viên đến từ 20 trường đại học quốc tế, trong đó có cả các trường danh giá như New York University (Hoa Kỳ), Monash University (Australia), KAIST (Hàn Quốc), Kyushu University (Nhật Bản), Nanyang Technological University (Singapore) và TU Dresden (Đức).
+Về chất lượng giảng viên, huấn luyện viên, chương trình quy tụ gần 200 giảng viên, huấn luyện viên, chuyên gia và quản lý dự án đến từ VinUni, Vingroup, cùng nhiều doanh nghiệp công nghệ hàng đầu như: Amazon, Google, Aurora AI, Foxconn, Backbase, Zalo AI, SHB, CMC và Viettel. Dưới sự hướng dẫn của đội ngũ chuyên gia, học viên đã giải quyết gần 160 bài toán AI mô phỏng và hơn 200 bài toán AI thực tế trong các lĩnh vực như xe tự hành, robot, học tập cá nhân hóa, dịch thuật đa ngôn ngữ, an ninh mạng, dữ liệu và tối ưu vận hành.
+Về chương trình, thông qua mô hình Challenge-Based Learning (học qua giải quyết thách thức thực tế), toàn bộ quá trình đào tạo được VinUni và doanh nghiệp đồng kiến tạo, theo đúng cách doanh nghiệp giao việc, sử dụng và tuyển dụng nhân sự.
+Học viên không chỉ học trên các bài toán mô phỏng mà trực tiếp giải quyết các bài toán AI của doanh nghiệp. Trong 12 tuần đào tạo, học viên trải qua ba tuần học nền tảng, ba tuần làm việc trong môi trường mô phỏng doanh nghiệp tại VinUni và sáu tuần trực tiếp tham gia các dự án công nghệ tại doanh nghiệp. Tại doanh nghiệp, cứ mỗi hai tuần, học viên được chấm điểm toàn diện về năng lực chuyên môn, chất lượng sản phẩm, tinh thần hợp tác, kỷ luật làm việc và hiệu quả thực thi dự án.
+GS.TS. Dương Nguyên Vũ, Phó Hiệu trưởng Trường Đại học VinUni, cho biết: “Chúng tôi không hướng tới việc đào tạo thêm một khóa học AI mà xây dựng một mô hình đào tạo nơi người học được kiểm chứng năng lực ngay trong quá trình làm việc. Khi năng lực được kiểm chứng bằng các bài toán thực tế và theo đúng tiêu chuẩn tuyển dụng của doanh nghiệp, học viên có thể bắt tay vào giải quyết công việc ngay sau khi tốt nghiệp, thay vì phải trải qua giai đoạn đào tạo lại. Kết quả của khóa đầu tiên cho thấy mô hình này đang tạo ra nguồn nhân lực AI đáp ứng yêu cầu thực tiễn và có thể tham gia ngay vào các dự án công nghệ quy mô lớn”.
+Những kết quả bước đầu cho thấy mô hình đào tạo thực chiến đang góp phần rút ngắn khoảng cách giữa đào tạo và tuyển dụng, đồng thời mở ra hướng tiếp cận mới trong phát triển nguồn nhân lực AI chất lượng cao. Thông qua chương trình, Vingroup kỳ vọng góp phần xây dựng đội ngũ nhân lực AI thực chiến, đáp ứng nhu cầu phát triển của doanh nghiệp và đóng góp vào mục tiêu đưa Việt Nam trở thành trung tâm công nghệ và đổi mới sáng tạo của khu vực./.
+—–
+Học viên tham gia Chương trình “Đào tạo 20.000 Nhân tài AI thực chiến” được miễn 100% học phí, đồng thời nhận hỗ trợ sinh hoạt 8 triệu đồng/tháng trong suốt thời gian học. Chứng chỉ tốt nghiệp chương trình do Trường Đại học VinUni và Tập đoàn Vingroup đồng cấp, ghi nhận năng lực thực chiến của học viên và tạo điều kiện kết nối với các cơ hội nghề nghiệp trong hệ sinh thái Vingroup cũng như nhiều doanh nghiệp công nghệ trong và ngoài nước.
+Bài viết mới nhất
+[![Nghiên cứu hệ gen người Việt toàn diện nhất được công bố trên Nature Communications](https://vinuni.edu.vn/wp-content/uploads/2026/07/2aoboqlyeifzqmayxth5fnoq4jznb0ogknkvl7sq2-scaled.jpg)](https://vinuni.edu.vn/vi/nghien-cuu-he-gen-nguoi-viet-toan-dien-nhat-duoc-cong-bo-tren-nature-communications/)
+23/07/2026
+[Nghiên cứu hệ gen người Việt toàn diện nhất được công bố trên Nature Communications](https://vinuni.edu.vn/vi/nghien-cuu-he-gen-nguoi-viet-toan-dien-nhat-duoc-cong-bo-tren-nature-communications/)
+[![Lễ Tốt nghiệp VinUni 2026: Bản phác thảo mô hình đại học của tương lai](https://vinuni.edu.vn/wp-content/uploads/2026/06/hinh-anh-17.png)](https://vinuni.edu.vn/vi/le-tot-nghiep-vinuni-2026-ban-phac-thao-mo-hinh-dai-hoc-cua-tuong-lai/)
+27/06/2026
+[Lễ Tốt nghiệp VinUni 2026: Bản phác thảo mô hình đại học của tương lai](https://vinuni.edu.vn/vi/le-tot-nghiep-vinuni-2026-ban-phac-thao-mo-hinh-dai-hoc-cua-tuong-lai/)
+[![Hội nghị quốc tế ICMIT 2026: Hơn 100 nhà khoa học hàng đầu về khoa học vật liệu quy tụ tại VinUni](https://vinuni.edu.vn/wp-content/uploads/2026/06/NHT03166-scaled.jpg)](https://vinuni.edu.vn/vi/hoi-nghi-quoc-te-icmit-2026-hon-100-nha-khoa-hoc-hang-dau-ve-khoa-hoc-vat-lieu-quy-tu-tai-vinuni/)
+15/06/2026
+[Hội nghị quốc tế ICMIT 2026: Hơn 100 nhà khoa học hàng đầu về khoa học vật liệu quy tụ tại VinUni](https://vinuni.edu.vn/vi/hoi-nghi-quoc-te-icmit-2026-hon-100-nha-khoa-hoc-hang-dau-ve-khoa-hoc-vat-lieu-quy-tu-tai-vinuni/)
+##  Có thể bạn thích
+[ Xem thêm ](https://vinuni.edu.vn/vi/category/tin-noi-bat/)
+Previous
+[![VinUni kết nối cộng đồng khoa học Việt Nam toàn cầu, “kiều hối tri thức” cho đất nước](https://vinuni.edu.vn/wp-content/uploads/2026/06/NHT02619-scaled.jpg)](https://vinuni.edu.vn/vi/vinuni-ket-noi-cong-dong-khoa-hoc-viet-nam-toan-cau-kieu-hoi-tri-thuc-cho-dat-nuoc/)
+###  [ VinUni kết nối cộng đồng khoa học Việt Nam toàn cầu, “kiều hối tri thức” cho đất nước ](https://vinuni.edu.vn/vi/vinuni-ket-noi-cong-dong-khoa-hoc-viet-nam-toan-cau-kieu-hoi-tri-thuc-cho-dat-nuoc/)
+[![Đối thoại toàn cầu về tương lai của Khoa học Vật liệu và Công nghệ – Diễn ra tại VinUni trong tháng 6 này](https://vinuni.edu.vn/wp-content/uploads/2026/05/hinh-anh-1.png)](https://vinuni.edu.vn/vi/doi-thoai-toan-cau-ve-tuong-lai-cua-khoa-hoc-vat-lieu-va-cong-nghe-dien-ra-tai-vinuni-trong-thang-6-nay/)
+###  [ Đối thoại toàn cầu về tương lai của Khoa học Vật liệu và Công nghệ – Diễn ra tại VinUni trong tháng 6 này ](https://vinuni.edu.vn/vi/doi-thoai-toan-cau-ve-tuong-lai-cua-khoa-hoc-vat-lieu-va-cong-nghe-dien-ra-tai-vinuni-trong-thang-6-nay/)
+[![VinUni chính thức trở thành trường đại học đầu tiên tại Việt Nam có chương trình Cử nhân Điều dưỡng đạt kiểm định ACEN theo tiêu chuẩn Hoa Kỳ](https://vinuni.edu.vn/wp-content/uploads/2026/05/VinUniversity-B_Certificate-1_page-0001-scaled.jpg)](https://vinuni.edu.vn/vi/vinuni-chinh-thuc-tro-thanh-truong-dai-hoc-dau-tien-tai-viet-nam-co-chuong-trinh-cu-nhan-dieu-duong-dat-kiem-dinh-acen-theo-tieu-chuan-hoa-ky/)
+###  [ VinUni chính thức trở thành trường đại học đầu tiên tại Việt Nam có chương trình Cử nhân Điều dưỡng đạt kiểm định ACEN theo tiêu chuẩn Hoa Kỳ ](https://vinuni.edu.vn/vi/vinuni-chinh-thuc-tro-thanh-truong-dai-hoc-dau-tien-tai-viet-nam-co-chuong-trinh-cu-nhan-dieu-duong-dat-kiem-dinh-acen-theo-tieu-chuan-hoa-ky/)
+[![Nghiên cứu hệ gen người Việt toàn diện nhất được công bố trên Nature Communications](https://vinuni.edu.vn/wp-content/uploads/2026/07/2aoboqlyeifzqmayxth5fnoq4jznb0ogknkvl7sq2-scaled.jpg)](https://vinuni.edu.vn/vi/nghien-cuu-he-gen-nguoi-viet-toan-dien-nhat-duoc-cong-bo-tren-nature-communications/)
+###  [ Nghiên cứu hệ gen người Việt toàn diện nhất được công bố trên Nature Communications ](https://vinuni.edu.vn/vi/nghien-cuu-he-gen-nguoi-viet-toan-dien-nhat-duoc-cong-bo-tren-nature-communications/)
+[![Lễ Tốt nghiệp VinUni 2026: Bản phác thảo mô hình đại học của tương lai](https://vinuni.edu.vn/wp-content/uploads/2026/06/hinh-anh-17.png)](https://vinuni.edu.vn/vi/le-tot-nghiep-vinuni-2026-ban-phac-thao-mo-hinh-dai-hoc-cua-tuong-lai/)
+###  [ Lễ Tốt nghiệp VinUni 2026: Bản phác thảo mô hình đại học của tương lai ](https://vinuni.edu.vn/vi/le-tot-nghiep-vinuni-2026-ban-phac-thao-mo-hinh-dai-hoc-cua-tuong-lai/)
+[![Hội nghị quốc tế ICMIT 2026: Hơn 100 nhà khoa học hàng đầu về khoa học vật liệu quy tụ tại VinUni](https://vinuni.edu.vn/wp-content/uploads/2026/06/NHT03166-scaled.jpg)](https://vinuni.edu.vn/vi/hoi-nghi-quoc-te-icmit-2026-hon-100-nha-khoa-hoc-hang-dau-ve-khoa-hoc-vat-lieu-quy-tu-tai-vinuni/)
+###  [ Hội nghị quốc tế ICMIT 2026: Hơn 100 nhà khoa học hàng đầu về khoa học vật liệu quy tụ tại VinUni ](https://vinuni.edu.vn/vi/hoi-nghi-quoc-te-icmit-2026-hon-100-nha-khoa-hoc-hang-dau-ve-khoa-hoc-vat-lieu-quy-tu-tai-vinuni/)
+[![VinUni kết nối cộng đồng khoa học Việt Nam toàn cầu, “kiều hối tri thức” cho đất nước](https://vinuni.edu.vn/wp-content/uploads/2026/06/NHT02619-scaled.jpg)](https://vinuni.edu.vn/vi/vinuni-ket-noi-cong-dong-khoa-hoc-viet-nam-toan-cau-kieu-hoi-tri-thuc-cho-dat-nuoc/)
+###  [ VinUni kết nối cộng đồng khoa học Việt Nam toàn cầu, “kiều hối tri thức” cho đất nước ](https://vinuni.edu.vn/vi/vinuni-ket-noi-cong-dong-khoa-hoc-viet-nam-toan-cau-kieu-hoi-tri-thuc-cho-dat-nuoc/)
+[![Đối thoại toàn cầu về tương lai của Khoa học Vật liệu và Công nghệ – Diễn ra tại VinUni trong tháng 6 này](https://vinuni.edu.vn/wp-content/uploads/2026/05/hinh-anh-1.png)](https://vinuni.edu.vn/vi/doi-thoai-toan-cau-ve-tuong-lai-cua-khoa-hoc-vat-lieu-va-cong-nghe-dien-ra-tai-vinuni-trong-thang-6-nay/)
+###  [ Đối thoại toàn cầu về tương lai của Khoa học Vật liệu và Công nghệ – Diễn ra tại VinUni trong tháng 6 này ](https://vinuni.edu.vn/vi/doi-thoai-toan-cau-ve-tuong-lai-cua-khoa-hoc-vat-lieu-va-cong-nghe-dien-ra-tai-vinuni-trong-thang-6-nay/)
+[![VinUni chính thức trở thành trường đại học đầu tiên tại Việt Nam có chương trình Cử nhân Điều dưỡng đạt kiểm định ACEN theo tiêu chuẩn Hoa Kỳ](https://vinuni.edu.vn/wp-content/uploads/2026/05/VinUniversity-B_Certificate-1_page-0001-scaled.jpg)](https://vinuni.edu.vn/vi/vinuni-chinh-thuc-tro-thanh-truong-dai-hoc-dau-tien-tai-viet-nam-co-chuong-trinh-cu-nhan-dieu-duong-dat-kiem-dinh-acen-theo-tieu-chuan-hoa-ky/)
+###  [ VinUni chính thức trở thành trường đại học đầu tiên tại Việt Nam có chương trình Cử nhân Điều dưỡng đạt kiểm định ACEN theo tiêu chuẩn Hoa Kỳ ](https://vinuni.edu.vn/vi/vinuni-chinh-thuc-tro-thanh-truong-dai-hoc-dau-tien-tai-viet-nam-co-chuong-trinh-cu-nhan-dieu-duong-dat-kiem-dinh-acen-theo-tieu-chuan-hoa-ky/)
+[![Nghiên cứu hệ gen người Việt toàn diện nhất được công bố trên Nature Communications](https://vinuni.edu.vn/wp-content/uploads/2026/07/2aoboqlyeifzqmayxth5fnoq4jznb0ogknkvl7sq2-scaled.jpg)](https://vinuni.edu.vn/vi/nghien-cuu-he-gen-nguoi-viet-toan-dien-nhat-duoc-cong-bo-tren-nature-communications/)
+###  [ Nghiên cứu hệ gen người Việt toàn diện nhất được công bố trên Nature Communications ](https://vinuni.edu.vn/vi/nghien-cuu-he-gen-nguoi-viet-toan-dien-nhat-duoc-cong-bo-tren-nature-communications/)
+[![Lễ Tốt nghiệp VinUni 2026: Bản phác thảo mô hình đại học của tương lai](https://vinuni.edu.vn/wp-content/uploads/2026/06/hinh-anh-17.png)](https://vinuni.edu.vn/vi/le-tot-nghiep-vinuni-2026-ban-phac-thao-mo-hinh-dai-hoc-cua-tuong-lai/)
+###  [ Lễ Tốt nghiệp VinUni 2026: Bản phác thảo mô hình đại học của tương lai ](https://vinuni.edu.vn/vi/le-tot-nghiep-vinuni-2026-ban-phac-thao-mo-hinh-dai-hoc-cua-tuong-lai/)
+[![Hội nghị quốc tế ICMIT 2026: Hơn 100 nhà khoa học hàng đầu về khoa học vật liệu quy tụ tại VinUni](https://vinuni.edu.vn/wp-content/uploads/2026/06/NHT03166-scaled.jpg)](https://vinuni.edu.vn/vi/hoi-nghi-quoc-te-icmit-2026-hon-100-nha-khoa-hoc-hang-dau-ve-khoa-hoc-vat-lieu-quy-tu-tai-vinuni/)
+###  [ Hội nghị quốc tế ICMIT 2026: Hơn 100 nhà khoa học hàng đầu về khoa học vật liệu quy tụ tại VinUni ](https://vinuni.edu.vn/vi/hoi-nghi-quoc-te-icmit-2026-hon-100-nha-khoa-hoc-hang-dau-ve-khoa-hoc-vat-lieu-quy-tu-tai-vinuni/)
+[![VinUni kết nối cộng đồng khoa học Việt Nam toàn cầu, “kiều hối tri thức” cho đất nước](https://vinuni.edu.vn/wp-content/uploads/2026/06/NHT02619-scaled.jpg)](https://vinuni.edu.vn/vi/vinuni-ket-noi-cong-dong-khoa-hoc-viet-nam-toan-cau-kieu-hoi-tri-thuc-cho-dat-nuoc/)
+###  [ VinUni kết nối cộng đồng khoa học Việt Nam toàn cầu, “kiều hối tri thức” cho đất nước ](https://vinuni.edu.vn/vi/vinuni-ket-noi-cong-dong-khoa-hoc-viet-nam-toan-cau-kieu-hoi-tri-thuc-cho-dat-nuoc/)
+[![Đối thoại toàn cầu về tương lai của Khoa học Vật liệu và Công nghệ – Diễn ra tại VinUni trong tháng 6 này](https://vinuni.edu.vn/wp-content/uploads/2026/05/hinh-anh-1.png)](https://vinuni.edu.vn/vi/doi-thoai-toan-cau-ve-tuong-lai-cua-khoa-hoc-vat-lieu-va-cong-nghe-dien-ra-tai-vinuni-trong-thang-6-nay/)
+###  [ Đối thoại toàn cầu về tương lai của Khoa học Vật liệu và Công nghệ – Diễn ra tại VinUni trong tháng 6 này ](https://vinuni.edu.vn/vi/doi-thoai-toan-cau-ve-tuong-lai-cua-khoa-hoc-vat-lieu-va-cong-nghe-dien-ra-tai-vinuni-trong-thang-6-nay/)
+[![VinUni chính thức trở thành trường đại học đầu tiên tại Việt Nam có chương trình Cử nhân Điều dưỡng đạt kiểm định ACEN theo tiêu chuẩn Hoa Kỳ](https://vinuni.edu.vn/wp-content/uploads/2026/05/VinUniversity-B_Certificate-1_page-0001-scaled.jpg)](https://vinuni.edu.vn/vi/vinuni-chinh-thuc-tro-thanh-truong-dai-hoc-dau-tien-tai-viet-nam-co-chuong-trinh-cu-nhan-dieu-duong-dat-kiem-dinh-acen-theo-tieu-chuan-hoa-ky/)
+###  [ VinUni chính thức trở thành trường đại học đầu tiên tại Việt Nam có chương trình Cử nhân Điều dưỡng đạt kiểm định ACEN theo tiêu chuẩn Hoa Kỳ ](https://vinuni.edu.vn/vi/vinuni-chinh-thuc-tro-thanh-truong-dai-hoc-dau-tien-tai-viet-nam-co-chuong-trinh-cu-nhan-dieu-duong-dat-kiem-dinh-acen-theo-tieu-chuan-hoa-ky/)
+Next
+![Banner footer](https://vinuni.edu.vn/wp-content/uploads/2025/04/img_footer2.jpg)
+[ ![logo](https://vinuni.edu.vn/wp-content/uploads/2024/04/VINUNI_LOGO-FULL-_VERTICAL_WHITE-3.png) ](https://vinuni.edu.vn/vi/trang-chu)
+Copyright © 2019 VinUni.
+All Rights Reserved.
+[Privacy Policy](https://vinuni.edu.vn/privacy-statement/)
+Liên kết nhanh 
+  * [Về VinUni](https://vinuni.edu.vn/vi/ve-vinuni-2/)
+  * [Tin tức & sự kiện](https://vinuni.edu.vn/vi/tin-tuc-su-kien/)
+  * [Tour tham quan VinUni](https://vinuni.edu.vn/vi/visit-2/)
+  * [Cơ hội nghề nghiệp](https://vinuni.edu.vn/vi/new-careers/)
+
+
+Chương trình đào tạo 
+  * [Viện Khoa học Xã hội và Khoa học Tự nhiên](https://cas.vinuni.edu.vn/vi/trang-chu/)
+  * [Viện Kinh doanh Quản trị](https://cbm.vinuni.edu.vn/vi/trang-chu-2/)
+  * [Viện Kỹ thuật và Khoa học Máy tính](https://cecs.vinuni.edu.vn/vi/trang-chu/)
+  * [Viện Khoa Học Sức Khỏe](https://chs.vinuni.edu.vn/vi/trang-chu/)
+
+
+Thông tin liên hệ 
+  * VinUniversity, Vinhomes Ocean Park, Gia Lam, Hanoi, Vietnam
+  * Email: info@vinuni.edu.vn
+  * Tel: (+84) 2471089779
+
+
+[ ](https://www.facebook.com/vinuniversity/) [ ](https://www.youtube.com/channel/UC-XZodYpSIIogum4QqbENAA) [ ](https://www.instagram.com/vinuniversity.official/) [ ](https://vn.linkedin.com/school/vinuniversity-vietnam/)
+Copyright © 2019 VinUni.
+All Rights Reserved.
+[Privacy Policy](https://vinuni.edu.vn/privacy-statement/)
+[ ](https://www.facebook.com/vinuniversity/) [ ](https://www.youtube.com/channel/UC-XZodYpSIIogum4QqbENAA) [ ](https://www.instagram.com/vinuniversity.official/) [ ](https://vn.linkedin.com/school/vinuniversity-vietnam/)
