@@ -23,6 +23,10 @@ thay vì cố vượt qua, và chỉ dùng nguồn công khai/được phép chi
 """
 
 from pathlib import Path
+import sys
+
+if hasattr(sys.stdin, "reconfigure"):
+    sys.stdin.reconfigure(encoding="utf-8")
 
 DATA_DIR = Path(__file__).parent.parent / "data" / "landing" / "legal"
 
@@ -69,7 +73,7 @@ def download_file(url: str, filename: str):
 if __name__ == "__main__":
     setup_directory()
 
-    url = input("Direct URL của PDF/DOCX: ").strip()
-    filename = input("Tên file: ").strip()
-
-    download_file(url, filename)
+download_file(
+    url="https://policy.vinuni.edu.vn/wp-content/uploads/2024/05/VU_HT03.VN_QC-dao-tao-dai-hoc-he-chinh-quy-theo-he-thong-tin-chi.pdf",
+    filename="Quy-che-dao-tao-dhvin.pdf",
+)
