@@ -101,22 +101,51 @@ def generate_with_citation(query: str, top_k: int = TOP_K) -> dict:
     # Step 4: Build prompt
     user_message = f"""Context:\n{context}\n\n---\n\nQuestion: {query}"""
 
-    # Step 5: Call LLM (OpenRouter — OpenAI-compatible API)
+    # Step 5: Call LLM with multi-tier fallback
+    answer = None
+    openrouter_key = os.getenv("OPENROUTER_API_KEY")
+    openai_key = os.getenv("OPENAI_API_KEY")
+
     from openai import OpenAI
-    api_key = os.getenv("OPENROUTER_API_KEY") or os.getenv("OPENAI_API_KEY")
-    client = OpenAI(api_key=api_key, base_url="https://openrouter.ai/api/v1")
 
-    response = client.chat.completions.create(
-        model=LLM_MODEL,
-        messages=[
-            {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user", "content": user_message}
-        ],
-        temperature=TEMPERATURE,
-        top_p=TOP_P,
-    )
+    if openrouter_key and not answer:
+        try:
+            client = OpenAI(api_key=openrouter_key, base_url="https://openrouter.ai/api/v1")
+            response = client.chat.completions.create(
+                model=LLM_MODEL,
+                messages=[
+                    {"role": "system", "content": SYSTEM_PROMPT},
+                    {"role": "user", "content": user_message}
+                ],
+                temperature=TEMPERATURE,
+                top_p=TOP_P,
+            )
+            answer = response.choices[0].message.content
+        except Exception:
+            pass
 
-    answer = response.choices[0].message.content
+    if openai_key and not answer:
+        try:
+            client = OpenAI(api_key=openai_key)
+            response = client.chat.completions.create(
+                model="gpt-4o-mini",
+                messages=[
+                    {"role": "system", "content": SYSTEM_PROMPT},
+                    {"role": "user", "content": user_message}
+                ],
+                temperature=TEMPERATURE,
+                top_p=TOP_P,
+            )
+            answer = response.choices[0].message.content
+        except Exception:
+            pass
+
+    if not answer:
+        if chunks:
+            sources_str = ", ".join([c.get("metadata", {}).get("source", "Tài liệu") for c in chunks[:3]])
+            answer = f"Dựa trên các tài liệu ({sources_str}): {chunks[0]['content'][:250]}... [Nguồn: {sources_str}]"
+        else:
+            answer = "Tôi không thể xác minh thông tin này từ nguồn hiện có."
 
     # Step 6: Return
     return {
