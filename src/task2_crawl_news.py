@@ -29,11 +29,13 @@ def setup_directory():
     DATA_DIR.mkdir(parents=True, exist_ok=True)
 
 
-# TODO: Điền danh sách URL bài viết cần crawl
+# Nguồn: VinUni — chuyên mục Tin nổi bật (https://vinuni.edu.vn/vi/category/tin-noi-bat/)
 ARTICLE_URLS = [
-    # Ví dụ (trang công khai RMIT Vietnam):
-    # "https://www.rmit.edu.vn/libraryvn/...",
-    # "https://www.rmit.edu.vn/students/...",
+    "https://vinuni.edu.vn/vi/vingroup-tang-toc-dao-tao-20-000-nhan-tai-ai-thuc-chien/",
+    "https://vinuni.edu.vn/vi/nghien-cuu-he-gen-nguoi-viet-toan-dien-nhat-duoc-cong-bo-tren-nature-communications/",
+    "https://vinuni.edu.vn/vi/vinuni-ket-noi-cong-dong-khoa-hoc-viet-nam-toan-cau-kieu-hoi-tri-thuc-cho-dat-nuoc/",
+    "https://vinuni.edu.vn/vi/hoc-quan-tri-kinh-doanh-can-gioi-mon-gi-hoc-o-dau-chat-luong/",
+    "https://vinuni.edu.vn/vi/vinuni-vinh-du-nhan-giai-vang-quoc-te-ve-trach-nhiem-xa-hoi-va-phat-trien-ben-vung/",
 ]
 
 
@@ -51,31 +53,46 @@ async def crawl_article(url: str) -> dict:
     """
     from crawl4ai import AsyncWebCrawler
 
-    # TODO: Implement crawling logic
-    # async with AsyncWebCrawler() as crawler:
-    #     result = await crawler.arun(url=url)
-    #     return {
-    #         "url": url,
-    #         "title": result.metadata.get("title", "Unknown"),
-    #         "date_crawled": datetime.now().isoformat(),
-    #         "content_markdown": result.markdown,
-    #     }
-    raise NotImplementedError("Implement crawl_article")
+    async with AsyncWebCrawler() as crawler:
+        result = await crawler.arun(url=url)
+        if not result.success:
+            raise RuntimeError(f"Crawl thất bại cho {url}: {result.error_message}")
+
+        title = (result.metadata or {}).get("title") or url
+        return {
+            "url": url,
+            "title": title,
+            "date_crawled": datetime.now().isoformat(),
+            "content_markdown": result.markdown,
+        }
 
 
 async def crawl_all():
-    """Crawl toàn bộ bài viết trong ARTICLE_URLS."""
+    """Crawl toàn bộ bài viết trong ARTICLE_URLS.
+
+    1 URL lỗi không được chặn các URL còn lại — bắt lỗi từng bài để tối đa hoá
+    số bài crawl thành công (test chỉ yêu cầu tối thiểu 5 file, không phải 100%).
+    """
     setup_directory()
 
+    saved, failed = 0, 0
     for i, url in enumerate(ARTICLE_URLS, 1):
         print(f"[{i}/{len(ARTICLE_URLS)}] Crawling: {url}")
-        article = await crawl_article(url)
+        try:
+            article = await crawl_article(url)
+        except Exception as e:
+            print(f"  ✗ Lỗi: {e}")
+            failed += 1
+            continue
 
         # Lưu file JSON
         filename = f"article_{i:02d}.json"
         filepath = DATA_DIR / filename
-        filepath.write_text(json.dumps(article, ensure_ascii=False, indent=2))
+        filepath.write_text(json.dumps(article, ensure_ascii=False, indent=2), encoding="utf-8")
         print(f"  ✓ Saved: {filepath}")
+        saved += 1
+
+    print(f"\nHoàn tất: {saved} thành công, {failed} lỗi (tổng {len(ARTICLE_URLS)} URL).")
 
 
 if __name__ == "__main__":
