@@ -75,8 +75,16 @@ def load_documents() -> list[dict]:
     #         "metadata": {"source": md_file.name, "type": doc_type}
     #     })
     # return documents
-    raise NotImplementedError("Implement load_documents")
-
+    
+    documents = []
+    for md_file in STANDARDIZED_DIR.rglob("*.md"):
+        content = md_file.read_text(encoding="utf-8")
+        doc_type = "legal" if "legal" in str(md_file) else "news"
+        documents.append({
+            "content": content,
+            "metadata": {"source": md_file.name, "type": doc_type}
+        })
+    return documents
 
 def chunk_documents(documents: list[dict]) -> list[dict]:
     """
@@ -104,8 +112,23 @@ def chunk_documents(documents: list[dict]) -> list[dict]:
     #             "metadata": {**doc["metadata"], "chunk_index": i}
     #         })
     # return chunks
-    raise NotImplementedError("Implement chunk_documents")
+    from langchain_text_splitters import RecursiveCharacterTextSplitter
 
+    splitter = RecursiveCharacterTextSplitter(
+        chunk_size=CHUNK_SIZE,
+        chunk_overlap=CHUNK_OVERLAP,
+        separators=["\n\n", "\n", ". ", " ", ""]
+    )
+
+    chunks = []
+    for doc in documents:
+        splits = splitter.split_text(doc["content"])
+        for i, chunk_text in enumerate(splits):
+            chunks.append({
+                "content": chunk_text,
+                "metadata": {**doc["metadata"], "chunk_index": i}
+            })
+    return chunks
 
 def embed_chunks(chunks: list[dict]) -> list[dict]:
     """
@@ -125,8 +148,14 @@ def embed_chunks(chunks: list[dict]) -> list[dict]:
     # for chunk, emb in zip(chunks, embeddings):
     #     chunk["embedding"] = emb.tolist()
     # return chunks
-    raise NotImplementedError("Implement embed_chunks")
+    from sentence_transformers import SentenceTransformer
 
+    model = SentenceTransformer(EMBEDDING_MODEL)
+    texts = [c["content"] for c in chunks]
+    embeddings = model.encode(texts, show_progress_bar=True)
+    for chunk, emb in zip(chunks, embeddings):
+        chunk["embedding"] = emb.tolist()
+    return chunks
 
 def index_to_vectorstore(chunks: list[dict]):
     """
@@ -151,7 +180,22 @@ def index_to_vectorstore(chunks: list[dict]):
     #     embeddings=[c["embedding"] for c in chunks],
     #     metadatas=[c["metadata"] for c in chunks],
     # )
-    raise NotImplementedError("Implement index_to_vectorstore")
+    import chromadb
+    CHROMA_DIR.mkdir(parents=True, exist_ok=True)
+    client = chromadb.PersistentClient(path=str(CHROMA_DIR))
+    collection = client.get_or_create_collection(
+            name=COLLECTION_NAME,
+            metadata={"hnsw:space": "cosine"},  
+        )
+
+    ids = [f"{c['metadata']['source']}_chunk_{c['metadata']['chunk_index']}" for c in chunks]
+    collection.upsert(
+        ids=ids,
+        documents=[c["content"] for c in chunks],
+        embeddings=[c["embedding"] for c in chunks],
+        metadatas=[c["metadata"] for c in chunks],
+    )
+    
 
 
 def run_pipeline():
