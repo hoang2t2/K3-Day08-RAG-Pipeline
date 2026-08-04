@@ -55,6 +55,8 @@ def download_file(url: str, filename: str):
             f"URL không phải direct link tới PDF/DOCX: {url}"
             )
 
+    filepath.write_bytes(response.content)
+
     if filepath.stat().st_size <= 1024:
         filepath.unlink(missing_ok=True)
         raise ValueError("File tải về rỗng hoặc quá nhỏ")
