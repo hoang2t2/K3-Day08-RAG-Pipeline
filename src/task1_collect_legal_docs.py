@@ -35,20 +35,21 @@ def setup_directory():
 
 # TODO: Tải file PDF/DOCX về DATA_DIR
 # Có thể tải thủ công hoặc viết script download nếu có direct link.
-#
+
 # Ví dụ nếu có direct link:
-#
-# import requests
-#
-# def download_file(url: str, filename: str):
-#     response = requests.get(url)
-#     filepath = DATA_DIR / filename
-#     filepath.write_bytes(response.content)
-#     print(f"✓ Đã tải: {filepath}")
-#
+
+import requests
+
+def download_file(url: str, filename: str):
+    response = requests.get(url)
+    filepath = DATA_DIR / filename
+    filepath.write_bytes(response.content)
+    print(f"✓ Đã tải: {filepath}")
+
 # Nếu trang là HTML thuần (không phải PDF sẵn), có thể convert nội dung text
 # thành PDF đơn giản bằng thư viện fpdf2 (đã có trong requirements.txt).
 
 
 if __name__ == "__main__":
     setup_directory()
+    download_file(url = input("Copy URL: "), filename = input())
